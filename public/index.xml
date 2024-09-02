@@ -6,16 +6,44 @@
     <description>Recent content on Jim Deng</description>
     <generator>Hugo -- 0.133.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Feb 2023 19:34:30 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 31 Aug 2024 23:43:34 +0800</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Sat, 31 Aug 2024 23:43:34 +0800</pubDate>
+      <guid>//localhost:1313/about/</guid>
+      <description>:(fab fa-github fa-fw): Github Welcome to my personal blog</description>
+    </item>
+    <item>
+      <title>Life</title>
+      <link>//localhost:1313/life/</link>
+      <pubDate>Sat, 31 Aug 2024 23:43:34 +0800</pubDate>
+      <guid>//localhost:1313/life/</guid>
+      <description>:(fab fa-github fa-fw): Github Welcome to my personal blog</description>
+    </item>
+    <item>
+      <title>Showcase</title>
+      <link>//localhost:1313/showcase/</link>
+      <pubDate>Sat, 31 Aug 2024 23:43:34 +0800</pubDate>
+      <guid>//localhost:1313/showcase/</guid>
+      <description></description>
+    </item>
     <item>
       <title>剑指offer(Go版本)-数组</title>
       <link>//localhost:1313/posts/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offergo%E7%89%88%E6%9C%AC-%E6%95%B0%E7%BB%84.zh-cn/</link>
-      <pubDate>Sun, 19 Feb 2023 19:34:30 +0800</pubDate>
+      <pubDate>Sat, 31 Aug 2024 23:43:34 +0800</pubDate>
       <guid>//localhost:1313/posts/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offergo%E7%89%88%E6%9C%AC-%E6%95%B0%E7%BB%84.zh-cn/</guid>
       <description>剑指offer(Go版本)-数组 1.和为S的两个数字 输入一个递增排序的数组和一个数字S，在数组中查找两个数，使得他们的和正好是S，如果有多对数字的和等于S，输出两个数的乘积最小的。
 对应每个测试案例，输出两个数，小的先输出。
 思路：双指针，i := 0 j := length - 1 func findNumbersWithSum(a []int, sum int) []int { result := []int{} length := len(a) if length == 0 { return result } i := 0 j := length - 1 for i &amp;lt; j { if a[i]+a[j] == sum { result = append(result, i, j) break } if a[i]+a[j] &amp;lt; sum { i++ } if a[i]+a[j] &amp;gt; sum { j-- } } return result } 2.</description>
+    </item>
+    <item>
+      <title>系列</title>
+      <link>//localhost:1313/series/_index.zh-cn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/series/_index.zh-cn/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>

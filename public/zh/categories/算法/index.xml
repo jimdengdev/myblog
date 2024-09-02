@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>算法 on Jim Deng</title>
+    <link>http://localhost:1313/zh/categories/%E7%AE%97%E6%B3%95/</link>
+    <description>Recent content in 算法 on Jim Deng</description>
+    <generator>Hugo -- 0.133.1</generator>
+    <language>zh</language>
+    <lastBuildDate>Sat, 31 Aug 2024 23:43:34 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/zh/categories/%E7%AE%97%E6%B3%95/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>剑指offer(Go版本)-数组</title>
+      <link>http://localhost:1313/zh/posts/tech/%E5%89%91%E6%8C%87offergo%E7%89%88%E6%9C%AC-%E6%95%B0%E7%BB%84/</link>
+      <pubDate>Sat, 31 Aug 2024 23:43:34 +0800</pubDate>
+      <guid>http://localhost:1313/zh/posts/tech/%E5%89%91%E6%8C%87offergo%E7%89%88%E6%9C%AC-%E6%95%B0%E7%BB%84/</guid>
+      <description>剑指offer(Go版本)-数组 1.和为S的两个数字 输入一个递增排序的数组和一个数字S，在数组中查找两个数，使得他们的和正好是S，如果有多对数字的和等于S，输出两个数的乘积最小的。</description>
+    </item>
+  </channel>
+</rss>
