@@ -1,4 +1,4 @@
 ---
-title: 👨🏻‍💻Posts
+title: 👨🏻‍💻Blog
 draft: false
 ---

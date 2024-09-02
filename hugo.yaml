@@ -100,33 +100,29 @@ languages:
       enabled: true
       title:      # 主页标题
       subtitle:   # 主页副标题
-      imageUrl: "img/logo.ico"  # 头像
+      imageUrl: "img/avater.png"  # 头像
       imageTitle: 
-      imageWidth: 150
-      imageHeight: 150
+      # imageWidth: 150
+      # imageHeight: 150
       buttons:
+        - name: 📂Proj
+          url: posts/project
         - name: 👨🏻‍💻Tech
           url: posts/tech
-        - name: 📋Site
-          url: posts/site
         - name: 📕Read
           url: posts/read
         - name: 🏖Life
           url: posts/life
     menu:
       main:
-        - identifier: search
-          name: 🔍Search
-          url: search
-          weight: 1
         - identifier: home
           name: 🏠Home
           url: /
-          weight: 2
+          weight: 1
         - identifier: posts
-          name: 📚Posts
+          name: 📚Blog
           url: /posts
-          weight: 3
+          weight: 2
         - identifier: archives
           name: ⏱️Archives
           url: /archives
@@ -144,15 +140,21 @@ languages:
           url: /about
           weight: 50
         - identifier: github
-          name: "Github"
-          pre: "<i class='fab fa-github fa-fw'></i>"
+          name: Github
+          params:
+            rel: external
           url: "https://github.com/jimdengdev"
-          title: "GitHub"
+          title: GitHub
           weight: 55
+        - identifier: search
+          name: 🔍Search
+          url: search
+          weight: 56
         # - identifier: links
         #   name: 🤝友链
         #   url: links
         #   weight: 60
+    
 outputs:
     home:
         - HTML
