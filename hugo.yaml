@@ -42,8 +42,6 @@ languages:
       # imageWidth: 150
       # imageHeight: 150
       buttons:
-        - name: 📂项目
-          url: posts/project
         - name: 👨🏻‍💻技术
           url: posts/tech
         - name: 📕阅读
@@ -56,10 +54,14 @@ languages:
           name: 🏠主页
           url: /
           weight: 1
+        - identifier: project
+          name: 📂项目
+          url: /project
+          weight: 2
         - identifier: posts
           name: 📚博客
           url: /posts
-          weight: 2
+          weight: 3
         - identifier: archives
           name: ⏱️时间轴
           url: /archives
@@ -76,13 +78,6 @@ languages:
           name: 🙋🏻‍♂️关于
           url: /about
           weight: 50
-        - identifier: github
-          name: Github
-          params:
-            rel: external
-          url: "https://github.com/jimdengdev"
-          title: GitHub
-          weight: 55
         - identifier: search
           name: 🔍搜索
           url: search
