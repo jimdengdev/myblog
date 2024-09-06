@@ -3,6 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://jimdeng.com/en/project/</loc>
+    <lastmod>2024-09-07T00:55:01+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -14,42 +15,97 @@
                 href="http://jimdeng.com/en/project/"
                 />
   </url><url>
-    <loc>http://jimdeng.com/en/posts/tech/</loc>
+    <loc>http://jimdeng.com/en/button/tech/</loc>
     <lastmod>2024-08-31T23:43:34+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://jimdeng.com/zh/posts/tech/"
+                href="http://jimdeng.com/zh/button/tech/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://jimdeng.com/en/posts/tech/"
+                href="http://jimdeng.com/en/button/tech/"
                 />
   </url><url>
-    <loc>http://jimdeng.com/en/posts/read/</loc>
+    <loc>http://jimdeng.com/en/button/read/</loc>
     <lastmod>2024-08-31T23:43:34+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://jimdeng.com/zh/posts/read/"
+                href="http://jimdeng.com/zh/button/read/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://jimdeng.com/en/posts/read/"
+                href="http://jimdeng.com/en/button/read/"
                 />
   </url><url>
-    <loc>http://jimdeng.com/en/posts/life/</loc>
+    <loc>http://jimdeng.com/en/button/</loc>
+    <lastmod>2024-08-31T23:43:34+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://jimdeng.com/zh/posts/life/"
+                href="http://jimdeng.com/zh/button/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://jimdeng.com/en/posts/life/"
+                href="http://jimdeng.com/en/button/"
+                />
+  </url><url>
+    <loc>http://jimdeng.com/en/button/life/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://jimdeng.com/zh/button/life/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://jimdeng.com/en/button/life/"
+                />
+  </url><url>
+    <loc>http://jimdeng.com/en/tags/</loc>
+    <lastmod>2024-09-07T00:55:01+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://jimdeng.com/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://jimdeng.com/en/tags/"
+                />
+  </url><url>
+    <loc>http://jimdeng.com/en/</loc>
+    <lastmod>2024-09-07T00:55:01+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://jimdeng.com/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://jimdeng.com/en/"
+                />
+  </url><url>
+    <loc>http://jimdeng.com/en/tags/tag-1/</loc>
+    <lastmod>2024-09-07T00:55:01+08:00</lastmod>
+  </url><url>
+    <loc>http://jimdeng.com/en/project/%E7%9B%B4%E6%92%AD%E9%A1%B9%E7%9B%AE/zhibo/</loc>
+    <lastmod>2024-09-07T00:55:01+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://jimdeng.com/zh/project/%E7%9B%B4%E6%92%AD%E9%A1%B9%E7%9B%AE/zhibo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://jimdeng.com/en/project/%E7%9B%B4%E6%92%AD%E9%A1%B9%E7%9B%AE/zhibo/"
                 />
   </url><url>
     <loc>http://jimdeng.com/en/posts/</loc>
@@ -91,17 +147,30 @@
                 href="http://jimdeng.com/en/categories/"
                 />
   </url><url>
-    <loc>http://jimdeng.com/en/posts/tech/%E5%89%91%E6%8C%87offergo%E7%89%88%E6%9C%AC-%E6%95%B0%E7%BB%84/</loc>
+    <loc>http://jimdeng.com/en/button/tech/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offergo%E7%89%88%E6%9C%AC-%E6%95%B0%E7%BB%84/</loc>
     <lastmod>2024-08-31T23:43:34+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://jimdeng.com/zh/posts/tech/%E5%89%91%E6%8C%87offergo%E7%89%88%E6%9C%AC-%E6%95%B0%E7%BB%84/"
+                href="http://jimdeng.com/zh/button/tech/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offergo%E7%89%88%E6%9C%AC-%E6%95%B0%E7%BB%84/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://jimdeng.com/en/posts/tech/%E5%89%91%E6%8C%87offergo%E7%89%88%E6%9C%AC-%E6%95%B0%E7%BB%84/"
+                href="http://jimdeng.com/en/button/tech/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offergo%E7%89%88%E6%9C%AC-%E6%95%B0%E7%BB%84/"
+                />
+  </url><url>
+    <loc>http://jimdeng.com/en/posts/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offergo%E7%89%88%E6%9C%AC-%E6%95%B0%E7%BB%84/</loc>
+    <lastmod>2024-08-31T23:43:34+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://jimdeng.com/zh/posts/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offergo%E7%89%88%E6%9C%AC-%E6%95%B0%E7%BB%84/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://jimdeng.com/en/posts/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offergo%E7%89%88%E6%9C%AC-%E6%95%B0%E7%BB%84/"
                 />
   </url><url>
     <loc>http://jimdeng.com/en/tags/go%E8%AF%AD%E8%A8%80/</loc>
@@ -117,19 +186,6 @@
                 href="http://jimdeng.com/en/tags/go%E8%AF%AD%E8%A8%80/"
                 />
   </url><url>
-    <loc>http://jimdeng.com/en/</loc>
-    <lastmod>2024-08-31T23:43:34+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://jimdeng.com/zh/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://jimdeng.com/en/"
-                />
-  </url><url>
     <loc>http://jimdeng.com/en/series/</loc>
     <lastmod>2024-08-31T23:43:34+08:00</lastmod>
     <xhtml:link
@@ -141,19 +197,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://jimdeng.com/en/series/"
-                />
-  </url><url>
-    <loc>http://jimdeng.com/en/tags/</loc>
-    <lastmod>2024-08-31T23:43:34+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://jimdeng.com/zh/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://jimdeng.com/en/tags/"
                 />
   </url><url>
     <loc>http://jimdeng.com/en/series/%E5%89%91%E6%8C%87offer/</loc>
@@ -205,6 +248,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://jimdeng.com/en/archives/"
+                />
+  </url><url>
+    <loc>http://jimdeng.com/en/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://jimdeng.com/zh/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://jimdeng.com/en/search/"
                 />
   </url>
 </urlset>

@@ -6,7 +6,14 @@
     <description>Recent content in 📂项目 on Jim Deng</description>
     <generator>Hugo -- 0.133.1</generator>
     <language>zh</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Sat, 07 Sep 2024 00:55:01 +0800</lastBuildDate>
     <atom:link href="http://jimdeng.com/zh/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zhibo</title>
+      <link>http://jimdeng.com/zh/project/%E7%9B%B4%E6%92%AD%E9%A1%B9%E7%9B%AE/zhibo/</link>
+      <pubDate>Sat, 07 Sep 2024 00:55:01 +0800</pubDate>
+      <guid>http://jimdeng.com/zh/project/%E7%9B%B4%E6%92%AD%E9%A1%B9%E7%9B%AE/zhibo/</guid>
+      <description>项目介绍 项目结构 项目配置 项目功能 项目部署 项目维护</description>
+    </item>
   </channel>
 </rss>
