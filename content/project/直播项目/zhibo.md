@@ -2,7 +2,7 @@
 title: "Zhibo"
 date: 2024-09-07T00:55:01+08:00
 lastmod: 2024-09-07T00:55:01+08:00
-author: ["jimdeng"]
+author: ["Jim Deng"]
 summary: ""             # 简单描述，会展示在主页，可被搜索
 weight:                 # 输入1可以顶置文章
 draft: false            # 是否为草稿
