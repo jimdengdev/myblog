@@ -52,7 +52,7 @@ languages:
       main:
         - identifier: home
           name: 🏠主页
-          url: 
+          url: /
           weight: 1
         - identifier: project
           name: 📂项目
