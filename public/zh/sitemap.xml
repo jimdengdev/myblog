@@ -93,6 +93,9 @@
                 href="http://jimdeng.com/zh/"
                 />
   </url><url>
+    <loc>http://jimdeng.com/zh/posts/test/</loc>
+    <lastmod>2024-09-07T00:55:01+08:00</lastmod>
+  </url><url>
     <loc>http://jimdeng.com/zh/project/%E7%9B%B4%E6%92%AD%E9%A1%B9%E7%9B%AE/zhibo/</loc>
     <lastmod>2024-09-07T00:55:01+08:00</lastmod>
     <xhtml:link
@@ -105,6 +108,15 @@
                 hreflang="zh"
                 href="http://jimdeng.com/zh/project/%E7%9B%B4%E6%92%AD%E9%A1%B9%E7%9B%AE/zhibo/"
                 />
+  </url><url>
+    <loc>http://jimdeng.com/zh/tags/%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2024-09-07T00:55:01+08:00</lastmod>
+  </url><url>
+    <loc>http://jimdeng.com/zh/tags/%E7%88%AC%E8%99%AB/</loc>
+    <lastmod>2024-09-07T00:55:01+08:00</lastmod>
+  </url><url>
+    <loc>http://jimdeng.com/zh/posts/crawl_1_maoyan/</loc>
+    <lastmod>2024-09-07T00:55:01+08:00</lastmod>
   </url><url>
     <loc>http://jimdeng.com/zh/tags/%E6%97%A0%E4%BA%BA%E7%9B%B4%E6%92%AD/</loc>
     <lastmod>2024-09-07T00:55:01+08:00</lastmod>

@@ -10,7 +10,7 @@
 <meta name="description" content="👨🏻‍💻博客 - Jim Deng">
 <meta name="author" content="Jim Deng">
 <link rel="canonical" href="http://jimdeng.com/zh/posts/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.fc220c15db4aef0318bbf30adc45d33d4d7c88deff3238b23eb255afdc472ca6.css" integrity="sha256-/CIMFdtK7wMYu/MK3EXTPU18iN7/MjiyPrJVr9xHLKY=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.d5063699fc6b18a2d149e2d98fe803fb3acc13025ec81f3159387c2f3d0f0e7f.css" integrity="sha256-1QY2mfxrGKLRSeLZj&#43;gD&#43;zrMEwJeyB8xWTh8Lz0PDn8=" rel="preload stylesheet" as="style">
 <link rel="icon" href="http://jimdeng.com/img/logo.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="http://jimdeng.com/img/logo.ico">
 <link rel="icon" type="image/png" sizes="32x32" href="http://jimdeng.com/img/logo.ico">
@@ -30,6 +30,64 @@
 
     </style>
 </noscript>
+<script type="text/javascript" async
+    src="https://cdn.bootcss.com/mathjax/2.7.3/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+        MathJax.Hub.Config({
+            tex2jax: {
+                inlineMath: [['$', '$'], ['\\(', '\\)']],
+                displayMath: [['$$', '$$'], ['\[\[', '\]\]']],
+                processEscapes: true,
+                processEnvironments: true,
+                skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+                TeX: {
+                    equationNumbers: { autoNumber: "AMS" },
+                    extensions: ["AMSmath.js", "AMSsymbols.js"]
+                }
+            },
+            "HTML-CSS": {
+                availableFonts: ["Arial", "TeX"],
+                preferredFont: "TeX",
+                webFont: "TeX"
+            }
+        });
+
+        MathJax.Hub.Queue(function () {
+            
+            
+            
+            var all = MathJax.Hub.getAllJax(), i;
+            for (i = 0; i < all.length; i += 1) {
+                all[i].SourceElement().parentNode.className += ' has-jax';
+            }
+        });
+    </script>
+
+<style>
+    code.has-jax {
+        font: inherit;
+        font-size: 100%;
+        background: inherit;
+        border: inherit;
+        color: #515151;
+    }
+</style>
+
+
+
+<html>
+<head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/jetbrains-mono@1.0.6/css/jetbrains-mono.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-lite-webfont@1.1.0/style.css" />
+    <link rel="stylesheet" href="https://cdn.staticfile.org/lxgw-wenkai-screen-webfont/1.6.0/style.css" />
+    <style>
+        body {
+            font-family: "LXGW WenKai Lite", sans-serif;
+            font-family: "LXGW WenKai Screen", sans-serif;
+        }
+    </style>
+</head>
+</html>
+
   
 
 <meta property="og:title" content="👨🏻‍💻博客" />
@@ -145,6 +203,33 @@
     👨🏻‍💻博客
   </h1>
 </header>
+
+<article class="post-entry"> 
+<figure class="entry-cover"><img loading="lazy" src="https://www.sulvblog.cn/image/17_IMG_20220430_202228.png" alt="">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">test
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>test</p>
+  </div>
+  <footer class="entry-footer"><span title='2024-09-07 00:55:01 +0800 CST'>2024-09-07</span>&nbsp;·&nbsp;Jim Deng</footer>
+  <a class="entry-link" aria-label="post link to test" href="http://jimdeng.com/zh/posts/test/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">爬虫项目-猫眼TOP100爬取
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>爬取猫眼TOP100榜 1. 爬取流程 主要有以下四步：
+爬取单页内容：利利⽤用requests请求⽬目标站点，得 到单个⽹网⻚页HTML代码，返回结果。 正则表达式分析：根据HTML代码分析得到电影的 名称、主演、上映时间、评分、 图⽚片链接等信息。 保存至文件：通过⽂文件的形式将结果保存，每 一部电影一个结果一行Json字符串，图片保存成jpg格式。 开启循环及多线程：对多⻚页内容遍历，开启多线程提 ⾼高抓取速度。 ...</p>
+  </div>
+  <footer class="entry-footer"><span title='2024-09-07 00:55:01 +0800 CST'>2024-09-07</span>&nbsp;·&nbsp;Jim Deng</footer>
+  <a class="entry-link" aria-label="post link to 爬虫项目-猫眼TOP100爬取" href="http://jimdeng.com/zh/posts/crawl_1_maoyan/"></a>
+</article>
 
 <article class="post-entry"> 
   <header class="entry-header">

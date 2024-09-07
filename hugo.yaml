@@ -101,7 +101,7 @@ languages:
       # imageHeight: 150
       buttons:
         - name: 📂Proj
-          url: button/project
+          url: project/
         - name: 👨🏻‍💻Tech
           url: button/tech
         - name: 📕Read
@@ -162,6 +162,7 @@ params:
     DateFormat: "2006-01-02"
     # ShowShareButtons: true
     ShowReadingTime: false
+    # ShowShareButtons: true
     # disableSpecialistPost: true
     displayFullLangName: true
     ShowPostNavLinks: true
@@ -180,11 +181,7 @@ params:
         - name: github
           url: "https://github.com/jimdengdev"
         - name: bilibili
-          url: "https://space.bilibili.com/279296780"
-        - name: QQ
-          url: "img/qq.jpg"    
-        - name: email
-          url: "2652214420@qq.com"
+          url: "https://space.bilibili.com/641087944"
         - name: RSS
           url: "index.xml"
 
@@ -219,14 +216,17 @@ params:
         minMatchCharLength: 0
         keys: ["title", "permalink", "summary"]
 
-    # twikoo:
-    #   version: 1.4.11
-    # 评论
-    utteranc:
+    twikoo:
       enable: true
-      repo: "kdjlyy/blog_comments" 
-      issueTerm: "title"
-      theme: "github-light"  
+      visitor: true
+      commentCount: true
+      version: 1.6.39
+    # 评论
+    # utteranc:
+    #   enable: true
+    #   repo: "kdjlyy/blog_comments" 
+    #   issueTerm: "title"
+    #   theme: "github-light"  
 
 taxonomies:
     category: categories
