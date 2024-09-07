@@ -24,6 +24,7 @@ tags:
 ---
 
 ## 相册
+`$f(x)+f'(x) = f''(x)$`
 
 {{< galleries >}}
 {{< gallery src="/images/logo.png" title="香克斯">}}
