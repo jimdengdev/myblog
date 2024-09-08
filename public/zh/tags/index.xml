@@ -6,13 +6,27 @@
     <description>Recent content in 🔖标签 on Jim Deng</description>
     <generator>Hugo -- 0.133.1</generator>
     <language>zh</language>
-    <lastBuildDate>Sat, 07 Sep 2024 00:55:01 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 08 Sep 2024 22:54:05 +0800</lastBuildDate>
     <atom:link href="http://jimdeng.com/zh/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>测试</title>
-      <link>http://jimdeng.com/zh/tags/%E6%B5%8B%E8%AF%95/</link>
-      <pubDate>Sat, 07 Sep 2024 00:55:01 +0800</pubDate>
-      <guid>http://jimdeng.com/zh/tags/%E6%B5%8B%E8%AF%95/</guid>
+      <title>相册</title>
+      <link>http://jimdeng.com/zh/tags/%E7%9B%B8%E5%86%8C/</link>
+      <pubDate>Sun, 08 Sep 2024 22:54:05 +0800</pubDate>
+      <guid>http://jimdeng.com/zh/tags/%E7%9B%B8%E5%86%8C/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Go语言</title>
+      <link>http://jimdeng.com/zh/tags/go%E8%AF%AD%E8%A8%80/</link>
+      <pubDate>Sat, 07 Sep 2024 23:43:34 +0800</pubDate>
+      <guid>http://jimdeng.com/zh/tags/go%E8%AF%AD%E8%A8%80/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>数组</title>
+      <link>http://jimdeng.com/zh/tags/%E6%95%B0%E7%BB%84/</link>
+      <pubDate>Sat, 07 Sep 2024 23:43:34 +0800</pubDate>
+      <guid>http://jimdeng.com/zh/tags/%E6%95%B0%E7%BB%84/</guid>
       <description></description>
     </item>
     <item>
@@ -27,20 +41,6 @@
       <link>http://jimdeng.com/zh/tags/%E6%97%A0%E4%BA%BA%E7%9B%B4%E6%92%AD/</link>
       <pubDate>Sat, 07 Sep 2024 00:55:01 +0800</pubDate>
       <guid>http://jimdeng.com/zh/tags/%E6%97%A0%E4%BA%BA%E7%9B%B4%E6%92%AD/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Go语言</title>
-      <link>http://jimdeng.com/zh/tags/go%E8%AF%AD%E8%A8%80/</link>
-      <pubDate>Sat, 31 Aug 2024 23:43:34 +0800</pubDate>
-      <guid>http://jimdeng.com/zh/tags/go%E8%AF%AD%E8%A8%80/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>数组</title>
-      <link>http://jimdeng.com/zh/tags/%E6%95%B0%E7%BB%84/</link>
-      <pubDate>Sat, 31 Aug 2024 23:43:34 +0800</pubDate>
-      <guid>http://jimdeng.com/zh/tags/%E6%95%B0%E7%BB%84/</guid>
       <description></description>
     </item>
   </channel>

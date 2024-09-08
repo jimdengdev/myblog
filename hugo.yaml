@@ -42,12 +42,14 @@ languages:
       # imageWidth: 150
       # imageHeight: 150
       buttons:
-        - name: 👨🏻‍💻技术
-          url: button/tech
+        - name: ⏱️时间轴
+          url: archives/
+        - name: 🔖标签
+          url: tags/
         - name: 📕阅读
-          url: button/read
-        - name: 🏖生活
-          url: button/life
+          url: read/
+        - name: 🏖相册
+          url: gallery/
     menu:
       main:
         - identifier: home
@@ -62,18 +64,18 @@ languages:
           name: 📚博客
           url: posts/
           weight: 3
-        - identifier: archives
-          name: ⏱️时间轴
-          url: archives/
-          weight: 20
+        # - identifier: archives
+        #   name: ⏱️时间轴
+        #   url: archives/
+        #   weight: 20
         # - identifier: categories
         #   name: 🧩分类
         #   url: /categories
         #   weight: 30
-        - identifier: tags
-          name: 🔖标签
-          url: tags/
-          weight: 40
+        # - identifier: tags
+        #   name: 🔖标签
+        #   url: tags/
+        #   weight: 40
         - identifier: about
           name: 🙋🏻‍♂️关于
           url: about/
@@ -100,14 +102,14 @@ languages:
       # imageWidth: 150
       # imageHeight: 150
       buttons:
-        - name: 📂Proj
-          url: project/
-        - name: 👨🏻‍💻Tech
-          url: button/tech
+        - name: ⏱️Archives
+          url: archives/
+        - name: 🔖Tags
+          url: tags/
         - name: 📕Read
-          url: button/read
-        - name: 🏖Life
-          url: button/life
+          url: read/
+        - name: 🏖Gallery
+          url: gallery/
     menu:
       main:
         - identifier: home
@@ -122,18 +124,18 @@ languages:
           name: 📚Blog
           url: posts/
           weight: 3
-        - identifier: archives
-          name: ⏱️Archives
-          url: archives/
-          weight: 20
+        # - identifier: archives
+        #   name: ⏱️Archives
+        #   url: archives/
+        #   weight: 20
         # - identifier: categories
         #   name: 🧩分类
         #   url: /categories
         #   weight: 30
-        - identifier: tags
-          name: 🔖Tags
-          url: tags/
-          weight: 40
+        # - identifier: tags
+        #   name: 🔖Tags
+        #   url: tags/
+        #   weight: 40
         - identifier: about
           name: 🙋🏻‍♂️About
           url: about/

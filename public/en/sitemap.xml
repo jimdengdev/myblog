@@ -15,59 +15,34 @@
                 href="http://jimdeng.com/en/project/"
                 />
   </url><url>
-    <loc>http://jimdeng.com/en/button/tech/</loc>
+    <loc>http://jimdeng.com/en/read/</loc>
     <lastmod>2024-08-31T23:43:34+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://jimdeng.com/zh/button/tech/"
+                href="http://jimdeng.com/zh/read/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://jimdeng.com/en/button/tech/"
+                href="http://jimdeng.com/en/read/"
                 />
   </url><url>
-    <loc>http://jimdeng.com/en/button/read/</loc>
-    <lastmod>2024-08-31T23:43:34+08:00</lastmod>
+    <loc>http://jimdeng.com/en/gallery/</loc>
+    <lastmod>2024-09-08T22:54:05+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://jimdeng.com/zh/button/read/"
+                href="http://jimdeng.com/zh/gallery/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://jimdeng.com/en/button/read/"
-                />
-  </url><url>
-    <loc>http://jimdeng.com/en/button/</loc>
-    <lastmod>2024-08-31T23:43:34+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://jimdeng.com/zh/button/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://jimdeng.com/en/button/"
-                />
-  </url><url>
-    <loc>http://jimdeng.com/en/button/life/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://jimdeng.com/zh/button/life/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://jimdeng.com/en/button/life/"
+                href="http://jimdeng.com/en/gallery/"
                 />
   </url><url>
     <loc>http://jimdeng.com/en/tags/</loc>
-    <lastmod>2024-09-07T00:55:01+08:00</lastmod>
+    <lastmod>2024-09-08T22:54:05+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -79,8 +54,11 @@
                 href="http://jimdeng.com/en/tags/"
                 />
   </url><url>
+    <loc>http://jimdeng.com/en/tags/gallery/</loc>
+    <lastmod>2024-09-08T22:54:05+08:00</lastmod>
+  </url><url>
     <loc>http://jimdeng.com/en/</loc>
-    <lastmod>2024-09-07T00:55:01+08:00</lastmod>
+    <lastmod>2024-09-08T22:54:05+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -90,6 +68,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://jimdeng.com/en/"
+                />
+  </url><url>
+    <loc>http://jimdeng.com/en/gallery/%E9%A2%90%E5%92%8C%E5%9B%AD/</loc>
+    <lastmod>2024-09-08T22:54:05+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://jimdeng.com/zh/gallery/%E9%A2%90%E5%92%8C%E5%9B%AD/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://jimdeng.com/en/gallery/%E9%A2%90%E5%92%8C%E5%9B%AD/"
                 />
   </url><url>
     <loc>http://jimdeng.com/en/tags/tag-1/</loc>
@@ -145,19 +136,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://jimdeng.com/en/categories/"
-                />
-  </url><url>
-    <loc>http://jimdeng.com/en/button/tech/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offergo%E7%89%88%E6%9C%AC-%E6%95%B0%E7%BB%84/</loc>
-    <lastmod>2024-08-31T23:43:34+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://jimdeng.com/zh/button/tech/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offergo%E7%89%88%E6%9C%AC-%E6%95%B0%E7%BB%84/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://jimdeng.com/en/button/tech/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offergo%E7%89%88%E6%9C%AC-%E6%95%B0%E7%BB%84/"
                 />
   </url><url>
     <loc>http://jimdeng.com/en/posts/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offergo%E7%89%88%E6%9C%AC-%E6%95%B0%E7%BB%84/</loc>
