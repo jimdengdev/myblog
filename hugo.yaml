@@ -162,8 +162,8 @@ params:
     defaultTheme: light  # defaultTheme: light or dark 
     disableThemeToggle: false
     DateFormat: "2006-01-02"
-    # ShowShareButtons: true
-    ShowReadingTime: false
+    ShowShareButtons: true
+    ShowReadingTime: true
     # ShowShareButtons: true
     # disableSpecialistPost: true
     displayFullLangName: true
@@ -178,7 +178,7 @@ params:
     TocOpen: true # 自动展开目录
     comments: true
     busuanzi:
-        enable: false # 访问量统计，开启会降低加载速度 
+        enable: true # 访问量统计，开启会降低加载速度
     socialIcons:
         - name: github
           url: "https://github.com/jimdengdev"

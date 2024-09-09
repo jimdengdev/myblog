@@ -13,6 +13,17 @@
         {{ . | markdownify }}
         {{- print " · "}}
     {{- end }}
+    <!-- busuanzi -->
+    {{ if .Site.Params.busuanzi.enable -}}
+    <div class="busuanzi-footer">
+    <span id="busuanzi_container_site_pv">
+        total views: <span id="busuanzi_value_site_pv"></span>
+    </span>
+    <span id="busuanzi_container_site_uv">
+        visitor: <span id="busuanzi_value_site_uv"></span>
+    </span>
+    </div>
+    {{- end -}}
 
     <span>
         Powered by
