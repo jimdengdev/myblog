@@ -62,6 +62,7 @@
     {{- if not (.Param "disableAnchoredHeadings") }}
     {{- partial "anchored_headings.html" .Content -}}
     {{- else }}{{ .Content }}{{ end }}
+    {{ partial "copyright.html" . }}
   </div>
   {{- end }}
 
@@ -75,11 +76,18 @@
     {{- if (.Param "ShowPostNavLinks") }}
     {{- partial "post_nav_links.html" . }}
     {{- end }}
+    <!-- 添加文章版权声明信息 -->
+    <!-- <div style="margin-top:2em;padding:0 0.5em;font-size:.875rem">
+      <div style="padding-bottom:1em;">
+          <p>本文作者：<a href="https://zhengyang.wang/about" target="_blank">正阳</a></p>
+          <p>本文链接：<a href="{{ .Permalink }}" target="_blank">{{ .Title }}</a></p>
+          <p>版权声明：<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">「署名-非商业性使用-相同方式共享 4.0 国际」</a></p>
+      </div>
+    </div> -->
     {{- if (and site.Params.ShowShareButtons (ne .Params.disableShare true)) }}
     {{- partial "share_icons.html" . -}}
     {{- end }}
   </footer>
-
   {{- if (.Param "comments") }}
   {{- partial "comments.html" . }}
   {{- end }}

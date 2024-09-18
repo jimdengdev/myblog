@@ -170,6 +170,8 @@ params:
     ShowPostNavLinks: true
     ShowBreadCrumbs: true
     ShowCodeCopyButtons: true
+    copyrightLicense: "CC BY-NC 4.0"
+    licenseLink: "https://creativecommons.org/licenses/by-nc/4.0/"
     hideFooter: false # 隐藏页脚
     ShowWordCounts: true
     VisitCount: true
