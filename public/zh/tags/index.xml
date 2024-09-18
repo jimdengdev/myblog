@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>🔖标签 on Jim Deng</title>
-    <link>http://localhost:1313/zh/tags/</link>
+    <link>http://jimdeng.com/zh/tags/</link>
     <description>Recent content in 🔖标签 on Jim Deng</description>
     <generator>Hugo -- 0.133.1</generator>
     <language>zh</language>
     <lastBuildDate>Sun, 08 Sep 2024 22:54:05 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/zh/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://jimdeng.com/zh/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>相册</title>
-      <link>http://localhost:1313/zh/tags/%E7%9B%B8%E5%86%8C/</link>
+      <link>http://jimdeng.com/zh/tags/%E7%9B%B8%E5%86%8C/</link>
       <pubDate>Sun, 08 Sep 2024 22:54:05 +0800</pubDate>
-      <guid>http://localhost:1313/zh/tags/%E7%9B%B8%E5%86%8C/</guid>
+      <guid>http://jimdeng.com/zh/tags/%E7%9B%B8%E5%86%8C/</guid>
       <description></description>
     </item>
     <item>
       <title>Go语言</title>
-      <link>http://localhost:1313/zh/tags/go%E8%AF%AD%E8%A8%80/</link>
+      <link>http://jimdeng.com/zh/tags/go%E8%AF%AD%E8%A8%80/</link>
       <pubDate>Sat, 07 Sep 2024 23:43:34 +0800</pubDate>
-      <guid>http://localhost:1313/zh/tags/go%E8%AF%AD%E8%A8%80/</guid>
+      <guid>http://jimdeng.com/zh/tags/go%E8%AF%AD%E8%A8%80/</guid>
       <description></description>
     </item>
     <item>
       <title>数组</title>
-      <link>http://localhost:1313/zh/tags/%E6%95%B0%E7%BB%84/</link>
+      <link>http://jimdeng.com/zh/tags/%E6%95%B0%E7%BB%84/</link>
       <pubDate>Sat, 07 Sep 2024 23:43:34 +0800</pubDate>
-      <guid>http://localhost:1313/zh/tags/%E6%95%B0%E7%BB%84/</guid>
+      <guid>http://jimdeng.com/zh/tags/%E6%95%B0%E7%BB%84/</guid>
       <description></description>
     </item>
     <item>
       <title>爬虫</title>
-      <link>http://localhost:1313/zh/tags/%E7%88%AC%E8%99%AB/</link>
+      <link>http://jimdeng.com/zh/tags/%E7%88%AC%E8%99%AB/</link>
       <pubDate>Sat, 07 Sep 2024 00:55:01 +0800</pubDate>
-      <guid>http://localhost:1313/zh/tags/%E7%88%AC%E8%99%AB/</guid>
+      <guid>http://jimdeng.com/zh/tags/%E7%88%AC%E8%99%AB/</guid>
       <description></description>
     </item>
     <item>
       <title>无人直播</title>
-      <link>http://localhost:1313/zh/tags/%E6%97%A0%E4%BA%BA%E7%9B%B4%E6%92%AD/</link>
+      <link>http://jimdeng.com/zh/tags/%E6%97%A0%E4%BA%BA%E7%9B%B4%E6%92%AD/</link>
       <pubDate>Sat, 07 Sep 2024 00:55:01 +0800</pubDate>
-      <guid>http://localhost:1313/zh/tags/%E6%97%A0%E4%BA%BA%E7%9B%B4%E6%92%AD/</guid>
+      <guid>http://jimdeng.com/zh/tags/%E6%97%A0%E4%BA%BA%E7%9B%B4%E6%92%AD/</guid>
       <description></description>
     </item>
   </channel>

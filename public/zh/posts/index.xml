@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>👨🏻‍💻博客 on Jim Deng</title>
-    <link>http://localhost:1313/zh/posts/</link>
+    <link>http://jimdeng.com/zh/posts/</link>
     <description>Recent content in 👨🏻‍💻博客 on Jim Deng</description>
     <generator>Hugo -- 0.133.1</generator>
     <language>zh</language>
     <lastBuildDate>Sat, 07 Sep 2024 23:43:34 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/zh/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://jimdeng.com/zh/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>剑指offer(Go版本)-数组</title>
-      <link>http://localhost:1313/zh/posts/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offergo%E7%89%88%E6%9C%AC-%E6%95%B0%E7%BB%84/</link>
+      <link>http://jimdeng.com/zh/posts/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offergo%E7%89%88%E6%9C%AC-%E6%95%B0%E7%BB%84/</link>
       <pubDate>Sat, 07 Sep 2024 23:43:34 +0800</pubDate>
-      <guid>http://localhost:1313/zh/posts/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offergo%E7%89%88%E6%9C%AC-%E6%95%B0%E7%BB%84/</guid>
+      <guid>http://jimdeng.com/zh/posts/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offergo%E7%89%88%E6%9C%AC-%E6%95%B0%E7%BB%84/</guid>
       <description>剑指offer(Go版本)-数组 1.和为S的两个数字 输入一个递增排序的数组和一个数字S，在数组中查找两个数，使得他们的和正好是S，如果有多对数字的和等于S，输出两个数的乘积最小的。</description>
     </item>
     <item>
       <title>爬虫项目-猫眼TOP100爬取</title>
-      <link>http://localhost:1313/zh/posts/crawl_1_maoyan/</link>
+      <link>http://jimdeng.com/zh/posts/crawl_1_maoyan/</link>
       <pubDate>Sat, 07 Sep 2024 00:55:01 +0800</pubDate>
-      <guid>http://localhost:1313/zh/posts/crawl_1_maoyan/</guid>
+      <guid>http://jimdeng.com/zh/posts/crawl_1_maoyan/</guid>
       <description>&lt;h1 id=&#34;爬取猫眼top100榜&#34;&gt;爬取猫眼TOP100榜&lt;/h1&gt;
 &lt;h2 id=&#34;1-爬取流程&#34;&gt;1. 爬取流程&lt;/h2&gt;
 &lt;p&gt;主要有以下四步：&lt;/p&gt;
