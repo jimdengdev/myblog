@@ -234,6 +234,42 @@
                 href="https://jimdeng.com/zh/archives/"
                 />
   </url><url>
+    <loc>https://jimdeng.com/zh/treasure/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jimdeng.com/en/treasure/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://jimdeng.com/zh/treasure/"
+                />
+  </url><url>
+    <loc>https://jimdeng.com/zh/treasure/links/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jimdeng.com/en/treasure/links/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://jimdeng.com/zh/treasure/links/"
+                />
+  </url><url>
+    <loc>https://jimdeng.com/zh/treasure/tools/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jimdeng.com/en/treasure/tools/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://jimdeng.com/zh/treasure/tools/"
+                />
+  </url><url>
     <loc>https://jimdeng.com/zh/search/</loc>
     <xhtml:link
                 rel="alternate"

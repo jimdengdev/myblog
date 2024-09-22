@@ -54,15 +54,15 @@ languages:
       main:
         - identifier: home
           name: 🏠主页
-          url: /
+          pageRef: /
           weight: 1
         - identifier: project
           name: 📂项目
-          url: project/
+          pageRef: /project/
           weight: 2
         - identifier: posts
           name: 📚博客
-          url: posts/
+          pageRef: /posts/
           weight: 3
         # - identifier: archives
         #   name: ⏱️时间轴
@@ -72,22 +72,26 @@ languages:
         #   name: 🧩分类
         #   url: /categories
         #   weight: 30
-        # - identifier: tags
-        #   name: 🔖标签
-        #   url: tags/
-        #   weight: 40
+        - identifier: treasure
+          name: 🔥精选🔻
+          pageRef: /treasure/
+          weight: 40
+        - identifier: links
+          parent: treasure
+          name: 🤝友链
+          pageRef: /treasure/links/
+        - identifier: tools
+          parent: treasure
+          name: 🧰工具
+          pageRef: /treasure/tools
         - identifier: about
           name: 🙋🏻‍♂️关于
-          url: about/
+          pageRef: /about/
           weight: 50
         - identifier: search
           name: 🔍搜索
-          url: search/
+          pageRef: /search/
           weight: 56
-        # - identifier: links
-        #   name: 🤝友链
-        #   url: links
-        #   weight: 60
 
   en:
     languageName: "English"
@@ -114,15 +118,15 @@ languages:
       main:
         - identifier: home
           name: 🏠Home
-          url: /
+          pageRef: /
           weight: 1
         - identifier: project
           name: 📂Project
-          url: project/
+          pageRef: /project
           weight: 2
         - identifier: posts
           name: 📚Blog
-          url: posts/
+          pageRef: /posts
           weight: 3
         # - identifier: archives
         #   name: ⏱️Archives
@@ -132,17 +136,25 @@ languages:
         #   name: 🧩分类
         #   url: /categories
         #   weight: 30
-        # - identifier: tags
-        #   name: 🔖Tags
-        #   url: tags/
-        #   weight: 40
+        - identifier: treasure
+          name: 🔥Treasure🔻
+          pageRef: /treasure/
+          weight: 40
+        - identifier: links
+          parent: treasure
+          name: 🤝Links
+          pageRef: /treasure/links/
+        - identifier: tools
+          parent: treasure
+          name: 🧰Tools
+          pageRef: /treasure/tools
         - identifier: about
           name: 🙋🏻‍♂️About
-          url: about/
+          pageRef: /about
           weight: 50
         - identifier: search
           name: 🔍Search
-          url: search/
+          pageRef: /search
           weight: 56
         # - identifier: links
         #   name: 🤝Links
@@ -193,10 +205,10 @@ params:
     #     Text: "Suggest Changes" # edit text
     #     appendFilePath: true # to append file path to Edit link
 
-    # label:
-    #     text: "Home"
-    #     icon: icon.png
-    #     iconHeight: 35
+    label:
+        text: "Home"
+        icon: icon.png
+        iconHeight: 35
 
     assets:
         favicon: "img/logo.ico"

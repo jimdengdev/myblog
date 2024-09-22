@@ -228,6 +228,18 @@
                 href="https://jimdeng.com/en/archives/"
                 />
   </url><url>
+    <loc>https://jimdeng.com/en/treasure/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://jimdeng.com/zh/treasure/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jimdeng.com/en/treasure/"
+                />
+  </url><url>
     <loc>https://jimdeng.com/en/search/</loc>
     <xhtml:link
                 rel="alternate"
@@ -238,6 +250,30 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://jimdeng.com/en/search/"
+                />
+  </url><url>
+    <loc>https://jimdeng.com/en/treasure/links/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://jimdeng.com/zh/treasure/links/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jimdeng.com/en/treasure/links/"
+                />
+  </url><url>
+    <loc>https://jimdeng.com/en/treasure/tools/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://jimdeng.com/zh/treasure/tools/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jimdeng.com/en/treasure/tools/"
                 />
   </url>
 </urlset>
