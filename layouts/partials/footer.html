@@ -6,9 +6,12 @@
         {{- else }}
         <span>&copy; {{ now.Year }} <a href="{{ "" | absLangURL }}">🐶 {{ site.Title }}</a></span>
         {{- end }}
-        {{- print " · "}}
     {{- end }}
-
+    <!-- busuanzi -->
+    {{ if .Site.Params.busuanzi.enable -}}
+    <!-- 👤 <span id="busuanzi_value_site_uv"></span> -->
+    👁️ <span id="busuanzi_value_site_pv"></span>
+    {{- end -}}
     {{- with site.Params.footer.text }}
         {{ . | markdownify }}
         {{- print " · "}}
@@ -18,12 +21,6 @@
         <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
         <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
     </span>
-    <!-- busuanzi -->
-    {{ if .Site.Params.busuanzi.enable -}}
-    {{- print " · "}}
-    👤 <span id="busuanzi_value_site_uv"></span>
-    👁️ <span id="busuanzi_value_site_pv"></span>
-    {{- end -}}
     <!-- <div class="busuanzi-footer"> -->
     <!-- <span id="busuanzi_container_site_pv">
         views: <span id="busuanzi_value_site_pv"></span>

@@ -164,7 +164,7 @@ params:
     DateFormat: "2006-01-02"
     ShowShareButtons: true
     ShowReadingTime: true
-    # ShowShareButtons: true
+    ShowWordCount: true
     # disableSpecialistPost: true
     displayFullLangName: true
     ShowPostNavLinks: true
@@ -173,7 +173,6 @@ params:
     copyrightLicense: "CC BY-NC 4.0"
     licenseLink: "https://creativecommons.org/licenses/by-nc/4.0/"
     hideFooter: false # 隐藏页脚
-    ShowWordCounts: true
     VisitCount: true
     ShowLastMod: true #显示文章更新时间
     ShowToc: true # 显示目录

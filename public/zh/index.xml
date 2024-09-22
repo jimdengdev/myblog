@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Jim Deng</title>
-    <link>http://jimdeng.com/zh/</link>
+    <link>http://localhost:1313/zh/</link>
     <description>Recent content on Jim Deng</description>
     <generator>Hugo -- 0.133.1</generator>
     <language>zh</language>
     <lastBuildDate>Sun, 08 Sep 2024 22:54:05 +0800</lastBuildDate>
-    <atom:link href="http://jimdeng.com/zh/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/zh/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>颐和园</title>
-      <link>http://jimdeng.com/zh/gallery/%E9%A2%90%E5%92%8C%E5%9B%AD/</link>
+      <link>http://localhost:1313/zh/gallery/%E9%A2%90%E5%92%8C%E5%9B%AD/</link>
       <pubDate>Sun, 08 Sep 2024 22:54:05 +0800</pubDate>
-      <guid>http://jimdeng.com/zh/gallery/%E9%A2%90%E5%92%8C%E5%9B%AD/</guid>
+      <guid>http://localhost:1313/zh/gallery/%E9%A2%90%E5%92%8C%E5%9B%AD/</guid>
       <description>&lt;h2 id=&#34;一句总结&#34;&gt;一句总结&lt;/h2&gt;
 &lt;p&gt;颐和园之旅不虚此行&lt;/p&gt;</description>
     </item>
     <item>
       <title>剑指offer(Go版本)-数组</title>
-      <link>http://jimdeng.com/zh/posts/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offergo%E7%89%88%E6%9C%AC-%E6%95%B0%E7%BB%84/</link>
+      <link>http://localhost:1313/zh/posts/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offergo%E7%89%88%E6%9C%AC-%E6%95%B0%E7%BB%84/</link>
       <pubDate>Sat, 07 Sep 2024 23:43:34 +0800</pubDate>
-      <guid>http://jimdeng.com/zh/posts/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offergo%E7%89%88%E6%9C%AC-%E6%95%B0%E7%BB%84/</guid>
+      <guid>http://localhost:1313/zh/posts/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offergo%E7%89%88%E6%9C%AC-%E6%95%B0%E7%BB%84/</guid>
       <description>剑指offer(Go版本)-数组 1.和为S的两个数字 输入一个递增排序的数组和一个数字S，在数组中查找两个数，使得他们的和正好是S，如果有多对数字的和等于S，输出两个数的乘积最小的。</description>
     </item>
     <item>
       <title>Zhibo</title>
-      <link>http://jimdeng.com/zh/project/%E7%9B%B4%E6%92%AD%E9%A1%B9%E7%9B%AE/zhibo/</link>
+      <link>http://localhost:1313/zh/project/%E7%9B%B4%E6%92%AD%E9%A1%B9%E7%9B%AE/zhibo/</link>
       <pubDate>Sat, 07 Sep 2024 00:55:01 +0800</pubDate>
-      <guid>http://jimdeng.com/zh/project/%E7%9B%B4%E6%92%AD%E9%A1%B9%E7%9B%AE/zhibo/</guid>
+      <guid>http://localhost:1313/zh/project/%E7%9B%B4%E6%92%AD%E9%A1%B9%E7%9B%AE/zhibo/</guid>
       <description>项目介绍 项目结构 项目配置 项目功能 项目部署 项目维护</description>
     </item>
     <item>
       <title>爬虫项目-猫眼TOP100爬取</title>
-      <link>http://jimdeng.com/zh/posts/crawl_1_maoyan/</link>
+      <link>http://localhost:1313/zh/posts/crawl_1_maoyan/</link>
       <pubDate>Sat, 07 Sep 2024 00:55:01 +0800</pubDate>
-      <guid>http://jimdeng.com/zh/posts/crawl_1_maoyan/</guid>
+      <guid>http://localhost:1313/zh/posts/crawl_1_maoyan/</guid>
       <description>&lt;h1 id=&#34;爬取猫眼top100榜&#34;&gt;爬取猫眼TOP100榜&lt;/h1&gt;
 &lt;h2 id=&#34;1-爬取流程&#34;&gt;1. 爬取流程&lt;/h2&gt;
 &lt;p&gt;主要有以下四步：&lt;/p&gt;
