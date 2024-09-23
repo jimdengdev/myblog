@@ -43,11 +43,11 @@ languages:
       # imageHeight: 150
       buttons:
         - name: 📂项目
-          pageRef: /project
+          url: project/
         - name: 📕阅读
-          pageRef: /read
+          url: read/
         - name: 🏖相册
-          pageRef: /gallery
+          url: gallery/
     menu:
       main:
         - identifier: home
@@ -61,13 +61,13 @@ languages:
         - identifier: archives
           parent: posts
           name: ⏱️时间轴
-          url: /archives
-          weight: 1
+          pageRef: /archives
+          weight: 10
         - identifier: tags
           parent: posts
           name: 🔖标签
-          url: /tags
-          weight: 2
+          pageRef: /tags
+          weight: 20
         # - identifier: categories
         #   name: 🧩分类
         #   url: /categories
@@ -107,11 +107,11 @@ languages:
       # imageHeight: 150
       buttons:
         - name: 📂Project
-          pageRef: /project
+          url: project/
         - name: 📕Read
-          pageRef: /read
+          url: read/
         - name: 🏖Gallery
-          pageRef: /gallery
+          url: gallery/
     menu:
       main:
         - identifier: home
@@ -120,18 +120,18 @@ languages:
           weight: 1
         - identifier: posts
           name: 📚Blog🔻
-          pageRef: /posts
+          pageRef: /posts/
           weight: 3
         - identifier: archives
           parent: posts
           name: ⏱️Archives
-          url: /archives
-          weight: 1
+          pageRef: /archives
+          weight: 10
         - identifier: tags
           parent: posts
           name: 🔖Tags
-          url: /tags
-          weight: 2
+          pageRef: /tags
+          weight: 20
         # - identifier: categories
         #   parent: posts
         #   name: 🧩分类
