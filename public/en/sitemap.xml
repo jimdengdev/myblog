@@ -252,6 +252,18 @@
                 href="https://jimdeng.com/en/search/"
                 />
   </url><url>
+    <loc>https://jimdeng.com/en/links/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://jimdeng.com/zh/links/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jimdeng.com/en/links/"
+                />
+  </url><url>
     <loc>https://jimdeng.com/en/treasure/links/</loc>
     <xhtml:link
                 rel="alternate"

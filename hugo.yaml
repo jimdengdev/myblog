@@ -42,32 +42,32 @@ languages:
       # imageWidth: 150
       # imageHeight: 150
       buttons:
-        - name: ⏱️时间轴
-          url: archives/
-        - name: 🔖标签
-          url: tags/
+        - name: 📂项目
+          pageRef: /project
         - name: 📕阅读
-          url: read/
+          pageRef: /read
         - name: 🏖相册
-          url: gallery/
+          pageRef: /gallery
     menu:
       main:
         - identifier: home
-          name: 🏠主页
+          name: 🏠
           pageRef: /
           weight: 1
-        - identifier: project
-          name: 📂项目
-          pageRef: /project/
-          weight: 2
         - identifier: posts
-          name: 📚博客
+          name: 📚博客🔻
           pageRef: /posts/
           weight: 3
-        # - identifier: archives
-        #   name: ⏱️时间轴
-        #   url: archives/
-        #   weight: 20
+        - identifier: archives
+          parent: posts
+          name: ⏱️时间轴
+          url: /archives
+          weight: 1
+        - identifier: tags
+          parent: posts
+          name: 🔖标签
+          url: /tags
+          weight: 2
         # - identifier: categories
         #   name: 🧩分类
         #   url: /categories
@@ -76,21 +76,21 @@ languages:
           name: 🔥精选🔻
           pageRef: /treasure/
           weight: 40
-        - identifier: links
-          parent: treasure
-          name: 🤝友链
-          pageRef: /treasure/links/
         - identifier: tools
           parent: treasure
           name: 🧰工具
           pageRef: /treasure/tools
         - identifier: about
           name: 🙋🏻‍♂️关于
-          pageRef: /about/
+          pageRef: /about
           weight: 50
+        - identifier: links
+          name: 🤝友链
+          pageRef: /links
+          weight: 51
         - identifier: search
           name: 🔍搜索
-          pageRef: /search/
+          pageRef: /search
           weight: 56
 
   en:
@@ -106,33 +106,34 @@ languages:
       # imageWidth: 150
       # imageHeight: 150
       buttons:
-        - name: ⏱️Archives
-          url: archives/
-        - name: 🔖Tags
-          url: tags/
+        - name: 📂Project
+          pageRef: /project
         - name: 📕Read
-          url: read/
+          pageRef: /read
         - name: 🏖Gallery
-          url: gallery/
+          pageRef: /gallery
     menu:
       main:
         - identifier: home
-          name: 🏠Home
+          name: 🏠
           pageRef: /
           weight: 1
-        - identifier: project
-          name: 📂Project
-          pageRef: /project
-          weight: 2
         - identifier: posts
-          name: 📚Blog
+          name: 📚Blog🔻
           pageRef: /posts
           weight: 3
-        # - identifier: archives
-        #   name: ⏱️Archives
-        #   url: archives/
-        #   weight: 20
+        - identifier: archives
+          parent: posts
+          name: ⏱️Archives
+          url: /archives
+          weight: 1
+        - identifier: tags
+          parent: posts
+          name: 🔖Tags
+          url: /tags
+          weight: 2
         # - identifier: categories
+        #   parent: posts
         #   name: 🧩分类
         #   url: /categories
         #   weight: 30
@@ -140,10 +141,6 @@ languages:
           name: 🔥Treasure🔻
           pageRef: /treasure/
           weight: 40
-        - identifier: links
-          parent: treasure
-          name: 🤝Links
-          pageRef: /treasure/links/
         - identifier: tools
           parent: treasure
           name: 🧰Tools
@@ -152,6 +149,10 @@ languages:
           name: 🙋🏻‍♂️About
           pageRef: /about
           weight: 50
+        - identifier: links
+          name: 🤝Links
+          pageRef: /links
+          weight: 51
         - identifier: search
           name: 🔍Search
           pageRef: /search
