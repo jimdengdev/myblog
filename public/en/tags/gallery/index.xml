@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Gallery on Jim Deng</title>
-    <link>http://localhost:1313/en/tags/gallery/</link>
+    <link>https://jimdeng.com/en/tags/gallery/</link>
     <description>Recent content in Gallery on Jim Deng</description>
     <generator>Hugo -- 0.133.1</generator>
     <language>en</language>
     <lastBuildDate>Sun, 08 Sep 2024 22:54:05 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/tags/gallery/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jimdeng.com/en/tags/gallery/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Summer Palace</title>
-      <link>http://localhost:1313/en/gallery/%E9%A2%90%E5%92%8C%E5%9B%AD/</link>
+      <link>https://jimdeng.com/en/gallery/%E9%A2%90%E5%92%8C%E5%9B%AD/</link>
       <pubDate>Sun, 08 Sep 2024 22:54:05 +0800</pubDate>
-      <guid>http://localhost:1313/en/gallery/%E9%A2%90%E5%92%8C%E5%9B%AD/</guid>
+      <guid>https://jimdeng.com/en/gallery/%E9%A2%90%E5%92%8C%E5%9B%AD/</guid>
       <description>&lt;h2 id=&#34;one-sentence&#34;&gt;One Sentence&lt;/h2&gt;
 &lt;p&gt;A wonderful place to visit and amazing experience.&lt;/p&gt;</description>
     </item>

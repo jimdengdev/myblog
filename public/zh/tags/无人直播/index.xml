@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>无人直播 on Jim Deng</title>
-    <link>http://localhost:1313/zh/tags/%E6%97%A0%E4%BA%BA%E7%9B%B4%E6%92%AD/</link>
+    <link>https://jimdeng.com/zh/tags/%E6%97%A0%E4%BA%BA%E7%9B%B4%E6%92%AD/</link>
     <description>Recent content in 无人直播 on Jim Deng</description>
     <generator>Hugo -- 0.133.1</generator>
     <language>zh</language>
     <lastBuildDate>Sat, 07 Sep 2024 00:55:01 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/zh/tags/%E6%97%A0%E4%BA%BA%E7%9B%B4%E6%92%AD/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jimdeng.com/zh/tags/%E6%97%A0%E4%BA%BA%E7%9B%B4%E6%92%AD/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Zhibo</title>
-      <link>http://localhost:1313/zh/project/%E7%9B%B4%E6%92%AD%E9%A1%B9%E7%9B%AE/zhibo/</link>
+      <link>https://jimdeng.com/zh/project/%E7%9B%B4%E6%92%AD%E9%A1%B9%E7%9B%AE/zhibo/</link>
       <pubDate>Sat, 07 Sep 2024 00:55:01 +0800</pubDate>
-      <guid>http://localhost:1313/zh/project/%E7%9B%B4%E6%92%AD%E9%A1%B9%E7%9B%AE/zhibo/</guid>
+      <guid>https://jimdeng.com/zh/project/%E7%9B%B4%E6%92%AD%E9%A1%B9%E7%9B%AE/zhibo/</guid>
       <description>项目介绍 项目结构 项目配置 项目功能 项目部署 项目维护</description>
     </item>
   </channel>

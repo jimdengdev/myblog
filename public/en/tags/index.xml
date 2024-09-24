@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>🔖Tags on Jim Deng</title>
-    <link>http://localhost:1313/en/tags/</link>
+    <link>https://jimdeng.com/en/tags/</link>
     <description>Recent content in 🔖Tags on Jim Deng</description>
     <generator>Hugo -- 0.133.1</generator>
     <language>en</language>
     <lastBuildDate>Sun, 08 Sep 2024 22:54:05 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jimdeng.com/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gallery</title>
-      <link>http://localhost:1313/en/tags/gallery/</link>
+      <link>https://jimdeng.com/en/tags/gallery/</link>
       <pubDate>Sun, 08 Sep 2024 22:54:05 +0800</pubDate>
-      <guid>http://localhost:1313/en/tags/gallery/</guid>
+      <guid>https://jimdeng.com/en/tags/gallery/</guid>
       <description></description>
     </item>
     <item>
       <title>Go语言</title>
-      <link>http://localhost:1313/en/tags/go%E8%AF%AD%E8%A8%80/</link>
+      <link>https://jimdeng.com/en/tags/go%E8%AF%AD%E8%A8%80/</link>
       <pubDate>Sat, 07 Sep 2024 23:43:34 +0800</pubDate>
-      <guid>http://localhost:1313/en/tags/go%E8%AF%AD%E8%A8%80/</guid>
+      <guid>https://jimdeng.com/en/tags/go%E8%AF%AD%E8%A8%80/</guid>
       <description></description>
     </item>
     <item>
       <title>数组</title>
-      <link>http://localhost:1313/en/tags/%E6%95%B0%E7%BB%84/</link>
+      <link>https://jimdeng.com/en/tags/%E6%95%B0%E7%BB%84/</link>
       <pubDate>Sat, 07 Sep 2024 23:43:34 +0800</pubDate>
-      <guid>http://localhost:1313/en/tags/%E6%95%B0%E7%BB%84/</guid>
+      <guid>https://jimdeng.com/en/tags/%E6%95%B0%E7%BB%84/</guid>
       <description></description>
     </item>
     <item>
       <title>Tag 1</title>
-      <link>http://localhost:1313/en/tags/tag-1/</link>
+      <link>https://jimdeng.com/en/tags/tag-1/</link>
       <pubDate>Sat, 07 Sep 2024 00:55:01 +0800</pubDate>
-      <guid>http://localhost:1313/en/tags/tag-1/</guid>
+      <guid>https://jimdeng.com/en/tags/tag-1/</guid>
       <description></description>
     </item>
   </channel>

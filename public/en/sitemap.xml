@@ -2,290 +2,290 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/en/project/</loc>
+    <loc>https://jimdeng.com/en/project/</loc>
     <lastmod>2024-09-07T00:55:01+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:1313/zh/project/"
+                href="https://jimdeng.com/zh/project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/project/"
+                href="https://jimdeng.com/en/project/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/read/</loc>
+    <loc>https://jimdeng.com/en/read/</loc>
     <lastmod>2024-08-31T23:43:34+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:1313/zh/read/"
+                href="https://jimdeng.com/zh/read/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/read/"
+                href="https://jimdeng.com/en/read/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/gallery/</loc>
+    <loc>https://jimdeng.com/en/gallery/</loc>
     <lastmod>2024-08-31T23:43:34+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:1313/zh/gallery/"
+                href="https://jimdeng.com/zh/gallery/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/gallery/"
+                href="https://jimdeng.com/en/gallery/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/</loc>
+    <loc>https://jimdeng.com/en/tags/</loc>
     <lastmod>2024-09-08T22:54:05+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:1313/zh/tags/"
+                href="https://jimdeng.com/zh/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/"
+                href="https://jimdeng.com/en/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/gallery/</loc>
+    <loc>https://jimdeng.com/en/tags/gallery/</loc>
     <lastmod>2024-09-08T22:54:05+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/</loc>
-    <lastmod>2024-09-08T22:54:05+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://localhost:1313/zh/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/gallery/%E9%A2%90%E5%92%8C%E5%9B%AD/</loc>
+    <loc>https://jimdeng.com/en/</loc>
     <lastmod>2024-09-08T22:54:05+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:1313/zh/gallery/%E9%A2%90%E5%92%8C%E5%9B%AD/"
+                href="https://jimdeng.com/zh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/gallery/%E9%A2%90%E5%92%8C%E5%9B%AD/"
+                href="https://jimdeng.com/en/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/posts/</loc>
+    <loc>https://jimdeng.com/en/gallery/%E9%A2%90%E5%92%8C%E5%9B%AD/</loc>
+    <lastmod>2024-09-08T22:54:05+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://jimdeng.com/zh/gallery/%E9%A2%90%E5%92%8C%E5%9B%AD/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jimdeng.com/en/gallery/%E9%A2%90%E5%92%8C%E5%9B%AD/"
+                />
+  </url><url>
+    <loc>https://jimdeng.com/en/posts/</loc>
     <lastmod>2024-09-07T23:43:34+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:1313/zh/posts/"
+                href="https://jimdeng.com/zh/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/posts/"
+                href="https://jimdeng.com/en/posts/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/categories/</loc>
+    <loc>https://jimdeng.com/en/categories/</loc>
     <lastmod>2024-09-07T23:43:34+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:1313/zh/categories/"
+                href="https://jimdeng.com/zh/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/categories/"
+                href="https://jimdeng.com/en/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/posts/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offergo%E7%89%88%E6%9C%AC-%E6%95%B0%E7%BB%84/</loc>
+    <loc>https://jimdeng.com/en/posts/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offergo%E7%89%88%E6%9C%AC-%E6%95%B0%E7%BB%84/</loc>
     <lastmod>2024-09-07T23:43:34+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:1313/zh/posts/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offergo%E7%89%88%E6%9C%AC-%E6%95%B0%E7%BB%84/"
+                href="https://jimdeng.com/zh/posts/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offergo%E7%89%88%E6%9C%AC-%E6%95%B0%E7%BB%84/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/posts/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offergo%E7%89%88%E6%9C%AC-%E6%95%B0%E7%BB%84/"
+                href="https://jimdeng.com/en/posts/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offergo%E7%89%88%E6%9C%AC-%E6%95%B0%E7%BB%84/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/go%E8%AF%AD%E8%A8%80/</loc>
+    <loc>https://jimdeng.com/en/tags/go%E8%AF%AD%E8%A8%80/</loc>
     <lastmod>2024-09-07T23:43:34+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:1313/zh/tags/go%E8%AF%AD%E8%A8%80/"
+                href="https://jimdeng.com/zh/tags/go%E8%AF%AD%E8%A8%80/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/go%E8%AF%AD%E8%A8%80/"
+                href="https://jimdeng.com/en/tags/go%E8%AF%AD%E8%A8%80/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/series/</loc>
+    <loc>https://jimdeng.com/en/series/</loc>
     <lastmod>2024-09-07T23:43:34+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:1313/zh/series/"
+                href="https://jimdeng.com/zh/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/series/"
+                href="https://jimdeng.com/en/series/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/series/%E5%89%91%E6%8C%87offer/</loc>
+    <loc>https://jimdeng.com/en/series/%E5%89%91%E6%8C%87offer/</loc>
     <lastmod>2024-09-07T23:43:34+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:1313/zh/series/%E5%89%91%E6%8C%87offer/"
+                href="https://jimdeng.com/zh/series/%E5%89%91%E6%8C%87offer/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/series/%E5%89%91%E6%8C%87offer/"
+                href="https://jimdeng.com/en/series/%E5%89%91%E6%8C%87offer/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/%E6%95%B0%E7%BB%84/</loc>
+    <loc>https://jimdeng.com/en/tags/%E6%95%B0%E7%BB%84/</loc>
     <lastmod>2024-09-07T23:43:34+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:1313/zh/tags/%E6%95%B0%E7%BB%84/"
+                href="https://jimdeng.com/zh/tags/%E6%95%B0%E7%BB%84/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/%E6%95%B0%E7%BB%84/"
+                href="https://jimdeng.com/en/tags/%E6%95%B0%E7%BB%84/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/categories/%E7%AE%97%E6%B3%95/</loc>
+    <loc>https://jimdeng.com/en/categories/%E7%AE%97%E6%B3%95/</loc>
     <lastmod>2024-09-07T23:43:34+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:1313/zh/categories/%E7%AE%97%E6%B3%95/"
+                href="https://jimdeng.com/zh/categories/%E7%AE%97%E6%B3%95/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/categories/%E7%AE%97%E6%B3%95/"
+                href="https://jimdeng.com/en/categories/%E7%AE%97%E6%B3%95/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/tag-1/</loc>
+    <loc>https://jimdeng.com/en/tags/tag-1/</loc>
     <lastmod>2024-09-07T00:55:01+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/project/%E7%9B%B4%E6%92%AD%E9%A1%B9%E7%9B%AE/zhibo/</loc>
+    <loc>https://jimdeng.com/en/project/%E7%9B%B4%E6%92%AD%E9%A1%B9%E7%9B%AE/zhibo/</loc>
     <lastmod>2024-09-07T00:55:01+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:1313/zh/project/%E7%9B%B4%E6%92%AD%E9%A1%B9%E7%9B%AE/zhibo/"
+                href="https://jimdeng.com/zh/project/%E7%9B%B4%E6%92%AD%E9%A1%B9%E7%9B%AE/zhibo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/project/%E7%9B%B4%E6%92%AD%E9%A1%B9%E7%9B%AE/zhibo/"
+                href="https://jimdeng.com/en/project/%E7%9B%B4%E6%92%AD%E9%A1%B9%E7%9B%AE/zhibo/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/about/</loc>
+    <loc>https://jimdeng.com/en/about/</loc>
     <lastmod>2024-08-31T23:43:34+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:1313/zh/about/"
+                href="https://jimdeng.com/zh/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/about/"
+                href="https://jimdeng.com/en/about/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/archives/</loc>
+    <loc>https://jimdeng.com/en/archives/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:1313/zh/archives/"
+                href="https://jimdeng.com/zh/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/archives/"
+                href="https://jimdeng.com/en/archives/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/treasure/</loc>
+    <loc>https://jimdeng.com/en/treasure/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:1313/zh/treasure/"
+                href="https://jimdeng.com/zh/treasure/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/treasure/"
+                href="https://jimdeng.com/en/treasure/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/search/</loc>
+    <loc>https://jimdeng.com/en/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:1313/zh/search/"
+                href="https://jimdeng.com/zh/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/search/"
+                href="https://jimdeng.com/en/search/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/links/</loc>
+    <loc>https://jimdeng.com/en/links/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:1313/zh/links/"
+                href="https://jimdeng.com/zh/links/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/links/"
+                href="https://jimdeng.com/en/links/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/treasure/links/</loc>
+    <loc>https://jimdeng.com/en/treasure/links/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:1313/zh/treasure/links/"
+                href="https://jimdeng.com/zh/treasure/links/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/treasure/links/"
+                href="https://jimdeng.com/en/treasure/links/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/treasure/tools/</loc>
+    <loc>https://jimdeng.com/en/treasure/tools/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:1313/zh/treasure/tools/"
+                href="https://jimdeng.com/zh/treasure/tools/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/treasure/tools/"
+                href="https://jimdeng.com/en/treasure/tools/"
                 />
   </url>
 </urlset>
