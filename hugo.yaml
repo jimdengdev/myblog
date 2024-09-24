@@ -33,21 +33,22 @@ languages:
     languageName: "Chinese"
     # contentDir: content/english
     weight: 1
-    profileMode:
-      enabled: true
-      title: Jim Deng     # 主页标题
-      subtitle: 后端开发  # 主页副标题
-      imageUrl: "img/avater.png"  # 头像
-      imageTitle: 
-      # imageWidth: 150
-      # imageHeight: 150
-      buttons:
-        - name: 📂项目
-          url: project/
-        - name: 📕阅读
-          url: read/
-        - name: 🏖相册
-          url: gallery/
+    params:
+      profileMode:
+        enabled: true
+        title: Jim Deng     # 主页标题
+        subtitle: 后端开发  # 主页副标题
+        imageUrl: "img/avater.png"  # 头像
+        imageTitle: 
+        # imageWidth: 150
+        # imageHeight: 150
+        buttons:
+          - name: 📂项目
+            url: project/
+          - name: 📕阅读
+            url: read/
+          - name: 🏖相册
+            url: gallery/
     menu:
       main:
         - identifier: home
@@ -97,21 +98,22 @@ languages:
     languageName: "English"
     # contentDir: content/english
     weight: 2
-    profileMode:
-      enabled: true
-      title:      # 主页标题
-      subtitle:   # 主页副标题
-      imageUrl: "img/avater.png"  # 头像
-      imageTitle: 
-      # imageWidth: 150
-      # imageHeight: 150
-      buttons:
-        - name: 📂Project
-          url: project/
-        - name: 📕Read
-          url: read/
-        - name: 🏖Gallery
-          url: gallery/
+    params:
+      profileMode:
+        enabled: true
+        title:      # 主页标题
+        subtitle:   # 主页副标题
+        imageUrl: "img/avater.png"  # 头像
+        imageTitle: 
+        # imageWidth: 150
+        # imageHeight: 150
+        buttons:
+          - name: 📂Project
+            url: project/
+          - name: 📕Read
+            url: read/
+          - name: 🏖Gallery
+            url: gallery/
     menu:
       main:
         - identifier: home
