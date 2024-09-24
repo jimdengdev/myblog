@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>📂Project on Jim Deng</title>
-    <link>https://jimdeng.com/en/project/</link>
+    <link>http://localhost:1313/en/project/</link>
     <description>Recent content in 📂Project on Jim Deng</description>
     <generator>Hugo -- 0.133.1</generator>
     <language>en</language>
     <lastBuildDate>Sat, 07 Sep 2024 00:55:01 +0800</lastBuildDate>
-    <atom:link href="https://jimdeng.com/en/project/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Zhibo</title>
-      <link>https://jimdeng.com/en/project/%E7%9B%B4%E6%92%AD%E9%A1%B9%E7%9B%AE/zhibo/</link>
+      <link>http://localhost:1313/en/project/%E7%9B%B4%E6%92%AD%E9%A1%B9%E7%9B%AE/zhibo/</link>
       <pubDate>Sat, 07 Sep 2024 00:55:01 +0800</pubDate>
-      <guid>https://jimdeng.com/en/project/%E7%9B%B4%E6%92%AD%E9%A1%B9%E7%9B%AE/zhibo/</guid>
+      <guid>http://localhost:1313/en/project/%E7%9B%B4%E6%92%AD%E9%A1%B9%E7%9B%AE/zhibo/</guid>
       <description>1. Project Description 2. Project Architecture 3. Project Development 4. Project Deployment 5. Project Maintenance</description>
     </item>
   </channel>

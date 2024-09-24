@@ -91,3 +91,66 @@ body:not(.dark) #sun {
 .logo-switches {
     flex-wrap: inherit;
 }
+
+/* 子菜单栏 */
+.dropdown {
+    display: inline-block;
+}
+  
+/* 子菜单的内容 (默认隐藏) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    border-radius: 4px;
+    line-height: 1.3rem;
+}
+  
+/* 子菜单的链接 */
+.dropdown-content a {
+    padding: 10px 18px 10px 14px;
+    text-decoration: none;
+    display: block;
+    & i {
+      margin-right: 3px;
+    }
+}
+  
+/* 鼠标移上去后修改子菜单链接颜色 */
+.dropdown-content a:hover {
+    /* background-color: #f1f1f1; */
+    background-color: #f1f100;
+    border-radius: 40px;
+}
+  
+/* 在鼠标移上去后显示子菜单 */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* 当鼠标悬停在子菜单上时，保持子菜单显示 */
+.dropdown-content:hover {
+    display: block;
+}
+  
+@media screen and (max-width: 2000px) {
+    .dropdown {
+        display: inline;
+    }
+    .dropdown:hover .dropdown-content {
+        display: inline;
+        z-index: 1;
+        margin-top: -em;
+        margin-left: em;
+    }
+    /* 当鼠标悬停在子菜单上时，保持子菜单显示 */
+    .dropdown-content:hover {
+        display: block;
+    }
+    .dropdown-content a:hover {
+        background-color: transparent;
+        background-color: #bdefea;
+        border-radius: 6px;
+    }
+}

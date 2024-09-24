@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>🏖相册 on Jim Deng</title>
-    <link>https://jimdeng.com/zh/gallery/</link>
+    <link>http://localhost:1313/zh/gallery/</link>
     <description>Recent content in 🏖相册 on Jim Deng</description>
     <generator>Hugo -- 0.133.1</generator>
     <language>zh</language>
     <lastBuildDate>Sun, 08 Sep 2024 22:54:05 +0800</lastBuildDate>
-    <atom:link href="https://jimdeng.com/zh/gallery/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/zh/gallery/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>颐和园</title>
-      <link>https://jimdeng.com/zh/gallery/%E9%A2%90%E5%92%8C%E5%9B%AD/</link>
+      <link>http://localhost:1313/zh/gallery/%E9%A2%90%E5%92%8C%E5%9B%AD/</link>
       <pubDate>Sun, 08 Sep 2024 22:54:05 +0800</pubDate>
-      <guid>https://jimdeng.com/zh/gallery/%E9%A2%90%E5%92%8C%E5%9B%AD/</guid>
+      <guid>http://localhost:1313/zh/gallery/%E9%A2%90%E5%92%8C%E5%9B%AD/</guid>
       <description>&lt;h2 id=&#34;一句总结&#34;&gt;一句总结&lt;/h2&gt;
 &lt;p&gt;颐和园之旅不虚此行&lt;/p&gt;</description>
     </item>
